@@ -22,5 +22,5 @@
 
   an abandoned algorithm
   
-  
+  [E99](/egg.md)
   
