@@ -18,9 +18,10 @@
 
   an abandoned mechanism
   
-######   SIFT
+######   Web Crawler
 
-  an abandoned algorithm
+  an abandoned dataset
   
-  [E99](/egg.md)
+E99:
+Of course, the eggs should be found in the chicken coop.
   
